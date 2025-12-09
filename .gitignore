@@ -1,0 +1,18 @@
+# YOLO model files (auto-download on first run)
+*.pt
+
+# Log files
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
